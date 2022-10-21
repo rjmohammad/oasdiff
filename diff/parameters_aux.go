@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/getkin/kin-openapi/openapi3"
+import "github.com/rjmohammad/kin-openapi/openapi3"
 
 func toParameters(parametersMap openapi3.ParametersMap) openapi3.Parameters {
 

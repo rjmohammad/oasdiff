@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/getkin/kin-openapi/openapi3"
+import "github.com/rjmohammad/kin-openapi/openapi3"
 
 // HeaderDiff describes the changes between a pair of header objects: https://swagger.io/specification/#header-object
 type HeaderDiff struct {

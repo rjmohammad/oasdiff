@@ -3,7 +3,7 @@ package diff
 import (
 	"strings"
 
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // SecurityRequirementsDiff describes the changes between a pair of sets of security requirement objects: https://swagger.io/specification/#security-requirement-object

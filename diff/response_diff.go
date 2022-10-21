@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/getkin/kin-openapi/openapi3"
+import "github.com/rjmohammad/kin-openapi/openapi3"
 
 // ResponseDiff describes the changes between a pair of response objects: https://swagger.io/specification/#response-object
 type ResponseDiff struct {

@@ -3,7 +3,7 @@ package load
 import (
 	"net/url"
 
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // Loader interface includes the OAS load functions

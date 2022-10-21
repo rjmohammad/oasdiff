@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/getkin/kin-openapi/openapi3"
+import "github.com/rjmohammad/kin-openapi/openapi3"
 
 // LinkDiff describes the changes between a pair of link objects: https://swagger.io/specification/#link-object
 type LinkDiff struct {

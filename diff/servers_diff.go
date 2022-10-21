@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/getkin/kin-openapi/openapi3"
+import "github.com/rjmohammad/kin-openapi/openapi3"
 
 // ServersDiff describes the changes between a pair of sets of encoding objects: https://swagger.io/specification/#server-object
 type ServersDiff struct {

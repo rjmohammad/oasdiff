@@ -1,7 +1,7 @@
 package diff
 
 import (
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // ExtensionsDiff describes the changes between a pair of sets of specification extensions: https://swagger.io/specification/#specification-extensions

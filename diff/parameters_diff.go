@@ -3,7 +3,7 @@ package diff
 import (
 	"fmt"
 
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // ParametersDiff describes the changes between a pair of lists of parameter objects: https://swagger.io/specification/#parameter-object

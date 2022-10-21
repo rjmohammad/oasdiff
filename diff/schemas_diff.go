@@ -1,7 +1,7 @@
 package diff
 
 import (
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // SchemasDiff describes the changes between a pair of sets of schema objects: https://swagger.io/specification/#schema-object

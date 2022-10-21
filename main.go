@@ -6,7 +6,7 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 	"github.com/tufin/oasdiff/build"
 	"github.com/tufin/oasdiff/diff"
 	"github.com/tufin/oasdiff/load"

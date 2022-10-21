@@ -1,7 +1,7 @@
 package diff
 
 import (
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/rjmohammad/kin-openapi/openapi3"
 )
 
 // ExampleDiff describes the changes between a pair of example objects: https://swagger.io/specification/#example-object

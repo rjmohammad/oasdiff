@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/getkin/kin-openapi/openapi3"
+import "github.com/rjmohammad/kin-openapi/openapi3"
 
 // ExternalDocsDiff describes the changes between a pair of external documentation objects: https://swagger.io/specification/#external-documentation-object
 type ExternalDocsDiff struct {
