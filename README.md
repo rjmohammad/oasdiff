@@ -4,6 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/tufin/oasdiff?status.svg)](https://godoc.org/github.com/tufin/oasdiff)
 [![Docker Image Version](https://img.shields.io/docker/v/tufin/oasdiff?sort=semver)](https://hub.docker.com/r/tufin/oasdiff/tags)
 
+# **Code belongs to the original creator github.com/tufin/oasdiff
 # OpenAPI Diff
 A diff tool for [OpenAPI Spec 3](https://swagger.io/specification/).
 
