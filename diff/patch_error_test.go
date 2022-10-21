@@ -3,8 +3,8 @@ package diff_test
 import (
 	"testing"
 
+	"github.com/rjmohammad/oasdiff/diff"
 	"github.com/stretchr/testify/require"
-	"github.com/tufin/oasdiff/diff"
 )
 
 func TestPatch_StringTypeMismatch_Nil(t *testing.T) {

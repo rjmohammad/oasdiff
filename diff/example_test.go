@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/rjmohammad/kin-openapi/openapi3"
-	"github.com/tufin/oasdiff/diff"
+	"github.com/rjmohammad/oasdiff/diff"
 	"gopkg.in/yaml.v3"
 )
 

@@ -7,10 +7,10 @@ import (
 	"reflect"
 
 	"github.com/rjmohammad/kin-openapi/openapi3"
-	"github.com/tufin/oasdiff/build"
-	"github.com/tufin/oasdiff/diff"
-	"github.com/tufin/oasdiff/load"
-	"github.com/tufin/oasdiff/report"
+	"github.com/rjmohammad/oasdiff/build"
+	"github.com/rjmohammad/oasdiff/diff"
+	"github.com/rjmohammad/oasdiff/load"
+	"github.com/rjmohammad/oasdiff/report"
 	"gopkg.in/yaml.v3"
 )
 

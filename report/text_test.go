@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	"github.com/rjmohammad/kin-openapi/openapi3"
+	"github.com/rjmohammad/oasdiff/diff"
+	"github.com/rjmohammad/oasdiff/report"
 	"github.com/stretchr/testify/require"
-	"github.com/tufin/oasdiff/diff"
-	"github.com/tufin/oasdiff/report"
 )
 
 func l(t *testing.T, v int) *openapi3.T {

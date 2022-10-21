@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/rjmohammad/kin-openapi/openapi3"
+	"github.com/rjmohammad/oasdiff/diff"
 	"github.com/stretchr/testify/require"
-	"github.com/tufin/oasdiff/diff"
 )
 
 // BC: reducing max length in request is breaking
